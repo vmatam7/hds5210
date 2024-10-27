@@ -1,0 +1,4 @@
+Your primary error is in the DYSPNEA mapping.
+Your BODE calculation excludes BMI
+Your risk calculation is made up out of whole cloth.
+It looks like you had some of the right direction on how to do the main business logic.
